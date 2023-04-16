@@ -1,2 +1,4 @@
 # Rockbuster_SQL
-Launch strategy project for Rockbuster Streaming Service 
+This is an SQL-based project which investigates the database of a fictitious movie rental company using PostgreSQL. Essentially, this project is part of the careerfoundry data analytics course.
+# Objective
+Rockbuster Stealth LLC, a well-known movie rental company, is currently experiencing intense competition from other rental companies that provide streaming services. To stay relevant in this highly competitive industry, the company is planning to leverage its existing licenses to transition to an online video rental service. The purpose of this analysis is to address the business questions of the Management Board and provide the Business Intelligence department with data-driven insights and recommendations to aid in their decision-making process. The analysis will involve exploring data on the current customer base and their rental patterns.
